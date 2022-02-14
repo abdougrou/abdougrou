@@ -2,7 +2,7 @@
 
 ## I'm a Student Developer!!
 
-- 📚 I'm in my third year of a bachelor's degree in computer engineering
+- 📚 I'm in my third year of a bachelor's degree in computer engineering in Polytechnique Montréal
 - 💻 I'm currently working on GrouBooking Angular Personal Project
 - 🔭 I am looking for a summer internship 2022
 - 🌱 I’m currently learning everything 🤣
