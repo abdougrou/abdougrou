@@ -34,7 +34,7 @@
 <img align="left" alt="Java" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" />
 <img align="left" alt="OpenGl" width="70px" src="https://www.khronos.org/assets/images/api_logos/opengl.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://key0.cc/images/small/1624_e19dc333db9da8b0971380554f77d009.png" />
+<img align="left" alt="GitHub" width="26px" src="https://pngimg.com/uploads/github/github_PNG28.png" />
 <img align="left" alt="GitLab" width="26px" src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/155/formation-gitlab.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
