@@ -8,9 +8,12 @@
 - ⚡ Fun fact: I love to draw and design ✍ (you can check be.net/abdougrou 😁)
 
 ### Connect with me:
-
-<img align="left" alt="abdougrou | Github" width="32px" src="https://key0.cc/images/small/1624_e19dc333db9da8b0971380554f77d009.png" />
+<a href="https://github.com/abdougrou">
+<img align="left" alt="abdougrou | Github" width="32px" src="https://pngimg.com/uploads/github/github_PNG28.png" />
+</a>
+<a href="https://www.linkedin.com/in/abderrahmane-grou">
 <img align="left" alt="abderrahmane-grou | LinkedIn" width="35px" src="https://www.scientifique-en-chef.gouv.qc.ca/wp-content/uploads/logo-linkedin.png" />
+</a>
 <br />
 
 ### Languages and Tools:
