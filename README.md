@@ -2,11 +2,9 @@
 
 ## I'm a Student Developer!!
 
-- 📚 I'm in my third year of a bachelor's degree in computer engineering in Polytechnique Montréal
-- 💻 I'm currently working on GrouBooking Angular Personal Project
-- 🔭 I am looking for a summer internship 2022
+- 📚 I'm in my 4th year of a bachelor's degree in computer engineering in Polytechnique Montréal
+- 🔭 I am looking for a winter internship/job 2024
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Successfully complete and deploy the entire Angular project and do a summer internship
 - ⚡ Fun fact: I love to draw and design ✍ (you can check be.net/abdougrou 😁)
 
 ### Connect with me:
