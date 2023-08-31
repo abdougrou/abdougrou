@@ -3,8 +3,7 @@
 ## I'm a Student Developer!!
 
 - 📚 I'm in my 4th year of a bachelor's degree in computer engineering in Polytechnique Montréal
-- 🔭 I am looking for a winter internship/job 2024
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything about data/ai
 - ⚡ Fun fact: I love to draw and design ✍ (you can check be.net/abdougrou 😁)
 
 ### Connect with me:
@@ -12,7 +11,8 @@
 <img align="left" alt="abdougrou | Github" width="32px" src="https://pngimg.com/uploads/github/github_PNG28.png" />
 </a>
 <a href="https://www.linkedin.com/in/abderrahmane-grou">
-<img align="left" alt="abderrahmane-grou | LinkedIn" width="35px" src="https://www.scientifique-en-chef.gouv.qc.ca/wp-content/uploads/logo-linkedin.png" />
+<img align="left" alt="abderrahmane-grou | LinkedIn" width="35px"
+  src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" />
 </a>
 <br />
 
