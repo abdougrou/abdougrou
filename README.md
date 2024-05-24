@@ -1,8 +1,8 @@
 ### Hi there, I'm Abderrahmane - aka abdougrou 👋 
 
-## I'm a Student Developer!!
+## I'm a Software Developer!!
 
-- 📚 I'm in my 4th year of a bachelor's degree in computer engineering in Polytechnique Montréal
+- 📚 I graduated in May 2024 with a bachelor's degree in computer engineering from Polytechnique Montreal.
 - 🌱 I’m currently learning everything about data/ai
 - ⚡ Fun fact: I love to draw and design ✍ (you can check be.net/abdougrou 😁)
 
